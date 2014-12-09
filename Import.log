@@ -1,0 +1,15 @@
+﻿Timestamp	Filename	Error	Message
+2014-11-19 14:58:09.239 -0800	Many to Many via Junction2.fmp12	0	Import operations started
+2014-11-19 14:58:09.240 -0800	Many to Many via Junction2.fmp12	0	Import of tables from clipboard started
+2014-11-19 14:58:09.257 -0800	Many to Many via Junction2.fmp12	0	Table “SingleToNumber” imported as “SingleToNumber 2” since a table or table occurrence named “SingleToNumber” already exists.
+2014-11-19 14:58:09.261 -0800	SingleToNumber 2	0	fields imported : 4
+2014-11-19 14:58:09.261 -0800	Many to Many via Junction2.fmp12	0	tables imported : 1
+2014-11-19 14:58:09.261 -0800	Many to Many via Junction2.fmp12	0	Import completed
+2014-11-19 15:00:21.030 -0800	Many to Many via Junction2.fmp12	0	Import of fields from clipboard started
+2014-11-19 15:00:21.035 -0800	SingleToText	0	fields imported : 4
+2014-11-19 15:00:21.035 -0800	Many to Many via Junction2.fmp12	0	Import completed
+2014-11-19 15:00:55.331 -0800	Many to Many via Junction2.fmp12	0	Import of fields from clipboard started
+2014-11-19 15:00:55.334 -0800	Strings	0	fields imported : 1
+2014-11-19 15:00:55.335 -0800	Many to Many via Junction2.fmp12	0	Import completed
+2014-11-19 15:01:51.102 -0800	Many to Many via Junction2.fmp12	0	Import operations committed
+2014-11-19 15:01:51.102 -0800	Many to Many via Junction2.fmp12	0	==================================================================
