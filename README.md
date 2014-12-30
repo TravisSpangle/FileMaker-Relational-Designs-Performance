@@ -12,3 +12,6 @@ Testing relational design impact on reporting performance.
 
 Test is to loop through every record. Concatenate the first number, string, and paragraph. Store the value to the report field and move to the next record.
 
+Additional tests where then performed for
+  * 60,000 records
+  * 100,000 records 
